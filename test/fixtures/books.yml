@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  titel: MyString
+  autor: MyString
+  seiten: 1
+  Erscheinungsjahr: 1
+
+two:
+  titel: MyString
+  autor: MyString
+  seiten: 1
+  Erscheinungsjahr: 1
